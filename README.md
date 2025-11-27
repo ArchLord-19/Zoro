@@ -38,5 +38,3 @@ Control your device’s volume just by moving your fingers — smooth, fast, and
 - Volume is controlled using **system command mapping or audio API hooks**
 
 
-   ```bash
-   git clone YOUR_REPO_URL
